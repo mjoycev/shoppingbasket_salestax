@@ -1,0 +1,4 @@
+1,true,other,bottle of perfume,27.99
+1,false,other,bottle of perfume,18.99
+1,false,medicine,packet of headache pills,9.75
+1,true,food,box of chocolates,11.25
